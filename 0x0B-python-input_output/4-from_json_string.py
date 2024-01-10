@@ -1,4 +1,6 @@
- a JSON-to-object function."""
+#!/usr/bin/python3
+
+"""a JSON-to-object function."""
 import json
 
 
